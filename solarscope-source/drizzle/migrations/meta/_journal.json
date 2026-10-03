@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791062740598,
+      "tag": "0000_armenia_monitoring_schema_and_demo_data",
+      "breakpoints": true
+    }
+  ]
+}
